@@ -26,7 +26,7 @@ $(function() {
                 data: {
                     name: name,
                     email: email,
-                    phone: phone.
+                    phone: phone,
                     message: message
                 },
                 dataType: "json",
