@@ -1,5 +1,7 @@
 # Gísli Rafn Guðmundsson - Website
 
-A personal website providing basic information about myself, as well as showcasing my portfolio/CV.
+## Content
+Facts about me.
 
-The website is based on the [Start Bootstrap](http://startbootstrap.com/) template, [Freelancer](http://startbootstrap.com/template-overviews/freelancer/).
+## Author
+Gísli Rafn Guðmundsson
